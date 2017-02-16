@@ -1,0 +1,12 @@
+{
+  "flightstatus": [{
+    "flightId": 271046927,
+    "fs1": "AA",
+    "iata": "AA",
+    "icao": "AAL",
+    "name": "American Airlines",
+    "phoneNumber": "1-800-433-7300",
+    "active": true
+  }
+    ]
+}
